@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Rocket Science</string>
+    <string name="launch_mission_name">Mission: %1$s</string>
+    <string name="launch_date">Date/time: %1$s at %2$s</string>
+    <string name="launch_rocket">Rocket: %1$s / %2$s</string>
+    <string name="launch_days_since">Days since now: %1$s</string>
+    <string name="launch_days_from">Days from now: %1$s</string>
+    <string name="launches">Launches</string>
+    <string name="company">Company</string>
+    <string name="company_info">%1$s was founded by %2$s in %3$s. It has now %4$s employees, %5$s launch sites, and is valued at USD %6$s.</string>
+    <string name="spacex">SpaceX</string>
+    <string name="filter_title">Filter</string>
+    <string name="launch_links_title">Links</string>
+    <string name="ok">ok</string>
+    <string name="filter_year_range">%1$d - %2$d</string>
+    <string name="filter_launch_success">Launch Success</string>
+    <string name="mission_patch_image">Mission patch image</string>
+    <string name="successful_launch">Successful launch</string>
+    <string name="unsuccessful_launch">Unsuccessful launch</string>
+    <string name="close">close</string>
+    <string name="link_description">%1$s link</string>
+    <string name="launch_link_article">Article</string>
+    <string name="launch_link_wikipedia">Wikipedia</string>
+    <string name="launch_link_video">Video</string>
+    <string name="api_error_msg">Failed to get API data</string>
+    <string name="empty_launches">Empty launches</string>
+    <string name="asc_order">Asc</string>
+    <string name="desc_order">Desc</string>
+</resources>
